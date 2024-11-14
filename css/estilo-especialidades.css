@@ -67,6 +67,11 @@ header {
   border-bottom: 2px solid #00cad1;
 }
 
+.links-titulo .links a:hover {
+  color: #0c6e71;
+  cursor: pointer;
+}
+
 .especialidades {
   max-width: 1024px;
   display: flex;
