@@ -57,13 +57,14 @@ header {
   gap: 10px;
 }
 
-.links-titulo a {
+.links-titulo .links a {
   text-decoration: none;
   color: #0000008c;
   cursor: pointer;
-  padding-right: 10px;
+  margin-right: 10px;
   text-align: center;
   font-size: 18px;
+  border-bottom: 2px solid #00cad1;
 }
 
 .especialidades {
